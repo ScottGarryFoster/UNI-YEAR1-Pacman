@@ -47,7 +47,5 @@ The scoring system might not sound like a lot but on top of collecting the bits 
 
 There's not a lot of improving to be done on this system except a general clean up. I feel the system for recognizing the score position the current score should be entered into could be much neater.
 
-## Parts I'm less proud of
-
 ## Overall Improvements
-
+There's a lot to improved, this was my first project using C++ from the ground up and overall it needs a clean up. I would say everything as a whole needs to be rethought up in terms of C++, in terms of polymorphism and a pointer based system. It rather messy, the path-finding looks like I attempted to patch over bugs instead of starting over. The overall code is just not of a quality I'd be happy to ship but it did lead me to some great projects and so I'm happy with my work.
