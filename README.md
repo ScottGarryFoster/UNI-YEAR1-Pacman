@@ -31,12 +31,21 @@ So the ghosts follow the proper AI. I'll be it the original game did not have A 
 
 I will say the AI class in this is very messy, it needs to be split off into smaller pieces and encapsulated. Additionally programming the blue ghost was difficult and I'm not even sure it 100% works.
 
-### Scoring System and High-score board
-The scoring system might not sound like a lot but on top of 
-
 ### Fluid Tunnels
+The tunnels were not given to us as part of the project, they basically just had the sprite move to the other side of the screen when it left the screen. I on the other hand decided early on to had two sprites for the player one drawn in normal play and the other only drawn to have this smooth transition. The way Pacman moves of the screen he'll start to appear on the other-side during the transition literally pixel by pixel. This feels much smoother, further more the fluid tunnels may occur in any direction and works for all the ghosts.
+
+The changes to this system would be the overall movement system. There are a lot of checks and balances which could be removed by thinking of the system as an encapsulated movement system to be applied to all characters. Similar to how did this in the future Super Mario Bros. project I'd attach a movement to a character meaning it could be bespoke.
 
 ### Loading Levels from file / tile-map creation
+
+The way the map is drawn is not simply an image per level but each tile of non-movable area is it's own tile. The game then loads in the level map and decides which tile to display on all the non-movable area. For example if a movable tile is to the South East of you and everything else is non-movable then you must be the top left corner tile. You extract this to the entire map and maybe do a second pass for some more difficult tiles and you have a completely fluid system.
+
+If I were to do this again I think I'd attempt to clean up the switch statements and maybe implement a tile interface/polymorph class so that each tile could be customized by passing a different character.
+
+### Scoring System and High-score board
+The scoring system might not sound like a lot but on top of collecting the bits you have to multiply the score for every ghost caught on a particular vulnerable run. This means if you can capture say three ghosts from one special bit you'll gain more points than capturing three ghosts separately from three special bits. Additionally the high-score board allows you to enter in your name and features the backspace key. These had to figured out manually within the system and shows off how the text system works. Further more the scores order from greatest to least.
+
+There's not a lot of improving to be done on this system except a general clean up. I feel the system for recognizing the score position the current score should be entered into could be much neater.
 
 ## Parts I'm less proud of
 
