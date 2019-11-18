@@ -1,7 +1,7 @@
 # Pacman Recreation
 This project is my university submission for a Pacman like game using S2D. This is **only** to be used for **educational** purposes and  learning how to use S2D, C++ and other such tools to produce a video game. This was built in Visual Studios 2019 and worked at the time, if you'd like to see a preview see the below YouTube video. Additionally to see my portfolio see the link below.
 
-YouTube video: [(https://www.youtube.com/watch?v=FB0SqXEZaF8](https://www.youtube.com/watch?v=FB0SqXEZaF8)
+YouTube video: [https://www.youtube.com/watch?v=FB0SqXEZaF8](https://www.youtube.com/watch?v=FB0SqXEZaF8)
 
 My portfolio: [https://ScottGarryFoster.com](https://ScottGarryFoster.com)
 
@@ -25,3 +25,20 @@ There's a lot of good in here for a first project, the path-finding, the way the
 Something I wanted in here from the start was A star path-finding. This is a technique of path-finding aiming to find the shortest route between two points. This system in my game works and even works through the screen wraps somewhat. The way this works is a few tiles beyond the screen warp the tiles will start considering the warp as an option and see if this number of less than not using the screen warp. In short, if it's shorter to go through the screen warp it'll start telling the AI of this a few steps away from it.
 
 Where I feel this falls short is simply in my knowledge of the language and system. It works however if I were to instead make a node based system this wouldn't need so many breakouts. Additionally it would use less memory and run far better than it currently does.
+
+### Ghost AI
+So the ghosts follow the proper AI. I'll be it the original game did not have A star path-finding however the ghosts will act similar to the original game. The red ghost will aim straight for you at all times, the pink ghost will attempt to aim in front of you, the blue ghost will attempt to get between you and the red ghost and the orange will get close till it runs away. These are all in here along with scatters and the release times. It's really a tribute to how much I was attempting to simulate the actual game.
+
+I will say the AI class in this is very messy, it needs to be split off into smaller pieces and encapsulated. Additionally programming the blue ghost was difficult and I'm not even sure it 100% works.
+
+### Scoring System and High-score board
+The scoring system might not sound like a lot but on top of 
+
+### Fluid Tunnels
+
+### Loading Levels from file / tile-map creation
+
+## Parts I'm less proud of
+
+## Overall Improvements
+
