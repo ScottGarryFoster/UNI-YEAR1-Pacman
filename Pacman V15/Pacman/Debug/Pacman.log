@@ -1,0 +1,309 @@
+﻿  Audio.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(467): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(468): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Collectables.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(467): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(468): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Collectables.cpp(13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FileManagement.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\FileManagement.h(82): warning C4091: 'static ': ignored on left of 'FileManagement' when no variable is declared
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\FileManagement.cpp(120): warning C4101: 'ia': unreferenced local variable
+  Ghost.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(467): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(468): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\FileManagement.h(82): warning C4091: 'static ': ignored on left of 'FileManagement' when no variable is declared
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(73): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(76): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(79): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(82): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(83): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(299): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(300): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(491): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(492): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(529): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(531): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(797): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(799): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(893): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Ghost.cpp(894): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  LevelManagement.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(467): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(468): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\FileManagement.h(82): warning C4091: 'static ': ignored on left of 'FileManagement' when no variable is declared
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\LevelManagement.cpp(13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(467): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(468): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Menu.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(467): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(468): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\FileManagement.h(82): warning C4091: 'static ': ignored on left of 'FileManagement' when no variable is declared
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Menu.cpp(13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Menu.cpp(161): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Menu.cpp(318): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Menu.cpp(338): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Menu.cpp(350): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Menu.cpp(379): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Pacman.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(467): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(468): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\FileManagement.h(82): warning C4091: 'static ': ignored on left of 'FileManagement' when no variable is declared
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.cpp(74): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(467): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(468): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Player.cpp(27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Player.cpp(32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Player.cpp(62): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Player.cpp(69): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  PlayerMovement.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(467): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(468): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\PlayerMovement.cpp(14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\PlayerMovement.cpp(19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\PlayerMovement.cpp(83): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\PlayerMovement.cpp(90): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\PlayerMovement.cpp(324): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\PlayerMovement.cpp(327): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\PlayerMovement.cpp(330): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\PlayerMovement.cpp(333): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\PlayerMovement.cpp(336): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\PlayerMovement.cpp(339): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\PlayerMovement.cpp(340): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\PlayerMovement.cpp(341): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\PlayerMovement.cpp(342): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  PrisonDetails.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(467): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(468): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Sprites.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(467): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(468): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Tilemap.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(467): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(468): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\FileManagement.h(82): warning C4091: 'static ': ignored on left of 'FileManagement' when no variable is declared
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Tilemap.cpp(16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Utility.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(467): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Pacman.h(468): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Utility.cpp(170): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Pacman\Utility.cpp(181): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Pacman.vcxproj -> C:\Users\fv033074\OneDrive - Staffordshire University\YEAR1 SEM1\SEM1\Graphical Systems pc\Pacman V15\Debug\Pacman.exe
